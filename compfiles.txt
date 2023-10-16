@@ -1,0 +1,8 @@
+./src/negocios/ListadeContactos.java
+./src/negocios/Principal.java
+./src/datos/PosicionIlegalException.java
+./src/datos/Lista.java
+./src/datos/Contacto.java
+./src/datos/Nodo.java
+./src/miTest/AppTest.java
+./src/uI/Interfaz.java
